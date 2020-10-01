@@ -1,8 +1,8 @@
-/* *{
+*{
     outline: 1px solid red;
-    } */
+    }
 .page {
     font-family: "Inter";
-    background-color: #E5E5E5;
-    min-width: 1280px;
+    background-color: #2A2C2F;
+    color: #fff;
 }
