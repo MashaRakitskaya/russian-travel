@@ -2,10 +2,16 @@
     margin: 0px;
     padding: 0px;
     margin-top: 8px;
-    font-style: normal;
     font-weight: normal;
     font-size: 10px;
     line-height: 14px;
     letter-spacing: 0.15em;
     text-transform: uppercase;
+}
+
+
+@media screen and (max-width: 320px) {
+    .lead__caption {
+        font-size: 10px;
+    }
 }
