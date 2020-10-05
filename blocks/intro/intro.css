@@ -1,4 +1,22 @@
 .intro {
-    width: 690px;
-    margin-left: 148px;
+    padding-top: 92px;
+    /* max-width: 690px; */
+    width: calc(100% - 2*100px);
+    margin: 0 auto;  
+}
+
+@media screen and (max-width: 1024px) {
+    .intro {
+        width: calc(100% - 2*48px);
+    }
+}
+@media screen and (max-width: 768px) {
+    .intro {
+      width: calc(100% - 2*24px); 
+    }
+}
+@media screen and (max-width: 320px) {
+    .intro {
+      width: calc(100% - 2*16px); 
+    }
 }
