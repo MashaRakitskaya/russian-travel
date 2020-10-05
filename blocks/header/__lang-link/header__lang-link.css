@@ -7,19 +7,16 @@
     line-height: 28px;
     color: #FFFFFF;
     margin-left: 18px;
+    opacity: 1;
+    transition: opacity 0.2s ease;
 }
 
-/* .header__lang-link:last-of-type {
-    margin-right: 0px;
-} */
-
-.header__lang-link:active {
-    text-decoration: underline;
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
     .header__lang-link {
-        font-weight: normal;
         font-size: 18px;
         line-height: 20px;
     }
