@@ -34,11 +34,12 @@
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__paragraphs/place__paragraphs.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
-@import url(../);
+
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__item/cover__item.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__background/cover__background.css);
 @import url(../);
 @import url(../);
 @import url(../);
