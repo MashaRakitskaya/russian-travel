@@ -11,11 +11,13 @@
 }
 @media screen and (max-width: 1023px) {
     .photo-grid  {
+        padding-top: 88px;
         width: calc(100% - 24px*2); 
     }
 }
 @media screen and (max-width: 767px) {
     .photo-grid  {
+        padding-top: 64px;
         width: calc(100% - 16px*2); 
     }
 }
