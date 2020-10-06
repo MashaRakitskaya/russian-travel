@@ -13,7 +13,7 @@
     position: relative;
     z-index: 1;
 }
-.cover__background:after {
+.cover__background:before {
     position: absolute;
     content: '';
     background: #2A2C2F;
@@ -24,7 +24,7 @@
     right: 0;
     transition: opacity 0.2s ease;
 }
-.cover__background:hover:after {
+.cover__background:hover:before {
     opacity: 0.8;
 }
 
