@@ -15,3 +15,6 @@
 * Адаптивность 
 * Все ссылки реагируют при наведении 
 
+
+[Проект на GitHub](https://masharakitskaya.github.io/russian-travel/)
+
