@@ -1,5 +1,5 @@
 .footer__link {
-    display: block;
+    /* display: block; */
     color: #FFFFFF;
     font-weight: normal;
     font-size: 16px;
@@ -10,9 +10,9 @@
     margin-right: 18px;
 }
 
-/* .footer__link:nth-child(5n) {
+.footer__link:nth-child(5n) {
     margin-right: 0px;
-} */
+}
 
 .footer__link:hover {
     opacity: 0.8;
@@ -22,6 +22,9 @@
         font-size: 24px;
         line-height: 24px;
         margin-right: 0px;
-        margin: 16px 0;
+        margin-bottom: 32px;
+    }
+    .footer__link:nth-child(5n) {
+        margin-bottom: 0px;
     }
 }
