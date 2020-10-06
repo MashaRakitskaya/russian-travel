@@ -3,6 +3,8 @@
     padding: 0px;
     list-style: none;
     align-self: end;
+    display: flex;
+    flex-direction: column;
 }
 
 @media screen and (max-width: 767px) {
