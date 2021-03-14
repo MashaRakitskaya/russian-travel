@@ -1,6 +1,6 @@
 # Проект 3: Путешествие по России
 
-[Проект на GitHub](https://masharakitskaya.github.io/russian-travel/)
+[Проект на github-pages](https://masharakitskaya.github.io/russian-travel/)
 
 ### Описание проекта:
 Проект о путешествиях по интересным местам России таких как: Алтай, Байкал, Карелия и другие местa.
