@@ -8,6 +8,7 @@
     opacity: 1;
     transition: opacity 0.2s ease;
     margin-right: 18px;
+    list-style: none;
 }
 
 .footer__link:nth-child(5n) {
