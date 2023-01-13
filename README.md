@@ -1,22 +1,22 @@
-# Проект 3: Путешествие по России
+# Project name: Travel to Russia
 
-[Проект на github-pages](https://masharakitskaya.github.io/russian-travel/)
+[Project on github-pages](https://masharakitskaya.github.io/russian-travel/)
 
-### Описание проекта:
-Проект о путешествиях по интересным местам России таких как: Алтай, Байкал, Карелия и другие местa.
+### Project description:
+The project is about traveling to interesting places in Russia such as: Altai, Baikal, Karelia and other places.
 
-### Технологии проекта:
+### Project technologies:
 * HTML & CSS
 
-### Инструменты:
+### Tools:
 * Figma
 
-### Функциональность:
-* Файловая структура проекта по правилам Nested БЭМ
-* Grid Layout и Flex-вёрстка
-* Адаптивность 
-* Все ссылки реагируют при наведении
+### Functionality:
+* The file structure of the project according to the rules of Nested BEM
+* Grid Layout and Flex Layout
+* Adaptive layout
+* All links react on hover
 
-### Установка:
-* скачай код
-* открой index.html  в браузере
+### Installation:
+* download the code
+* open index.html in the browser
