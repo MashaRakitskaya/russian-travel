@@ -1,4 +1,4 @@
-# Project name: Travel to Russia
+# Travel to Russia
 
 [Project on github-pages](https://masharakitskaya.github.io/russian-travel/)
 
